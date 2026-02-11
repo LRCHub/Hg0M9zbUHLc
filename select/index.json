@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "less of you",
+  "base_artist": "keshi",
+  "createdAt": "2026-02-11T10:41:15.101429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "less of you",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/01_less_of_you_keshi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "less of you (Audio)",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/02_less_of_you_(Audio)_keshi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Less of You",
+      "artist": "Omar Apollo",
+      "has_synced": true,
+      "path": "select/03_Less_of_You_Omar_Apollo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "keshi - less of you (Audio)",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/04_keshi_-_less_of_you_(Audio)_keshi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Little More of Chomsky (A Little Less of You and Me)",
+      "artist": "Subb",
+      "has_synced": false,
+      "path": "select/05_A_Little_More_of_Chomsky_(A_Little_Less_of_You_and_Me)_Subb.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Here's an Idea) How About More of Me & Less of You",
+      "artist": "Killwhitneydead",
+      "has_synced": true,
+      "path": "select/06_(Here's_an_Idea)_How_About_More_of_Me_&_Less_of_You_Killwhitneydead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Omar Apollo - Less of You (Lyric Video)",
+      "artist": "Omar Apollo",
+      "has_synced": true,
+      "path": "select/07_Omar_Apollo_-_Less_of_You_(Lyric_Video)_Omar_Apollo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "less of you (Paused)",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/08_less_of_you_(Paused)_keshi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Less Of A Stranger",
+      "artist": "Julia Jacklin",
+      "has_synced": true,
+      "path": "select/09_Less_Of_A_Stranger_Julia_Jacklin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Less of Me",
+      "artist": "Glen Campbell",
+      "has_synced": false,
+      "path": "select/10_Less_of_Me_Glen_Campbell.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Less Of Me",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/11_Less_Of_Me_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Less Of Me",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/12_Less_Of_Me_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "More of You Less of Me",
+      "artist": "KJ-52 feat. Whosoever South",
+      "has_synced": true,
+      "path": "select/13_More_of_You_Less_of_Me_KJ-52_feat._Whosoever_South.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "More of You Less of Me (feat. Whosoever South)",
+      "artist": "KJ-52",
+      "has_synced": true,
+      "path": "select/14_More_of_You_Less_of_Me_(feat._Whosoever_South)_KJ-52.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Less of Me",
+      "artist": "Until I Wake",
+      "has_synced": true,
+      "path": "select/15_Less_of_Me_Until_I_Wake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Less Of Me",
+      "artist": "Until I Wake",
+      "has_synced": false,
+      "path": "select/16_Less_Of_Me_Until_I_Wake.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Where Did You Go I'm Less of a Mess These Days",
+      "artist": "Blue October",
+      "has_synced": true,
+      "path": "select/17_Where_Did_You_Go_I'm_Less_of_a_Mess_These_Days_Blue_October.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Where Did You Go I’m Less of a Mess These Days",
+      "artist": "Blue October",
+      "has_synced": true,
+      "path": "select/18_Where_Did_You_Go_I’m_Less_of_a_Mess_These_Days_Blue_October.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Less Of A Woman",
+      "artist": "Zoe Wees",
+      "has_synced": false,
+      "path": "select/19_Less_Of_A_Woman_Zoe_Wees.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Less of Me",
+      "artist": "Grammatrain",
+      "has_synced": false,
+      "path": "select/20_Less_of_Me_Grammatrain.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Less Of Me",
+      "artist": "Roger Miller",
+      "has_synced": false,
+      "path": "select/21_Less_Of_Me_Roger_Miller.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Less Of Me",
+      "artist": "The Everly Brothers",
+      "has_synced": true,
+      "path": "select/22_Less_Of_Me_The_Everly_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Less of Me",
+      "artist": "Meg & Dia",
+      "has_synced": true,
+      "path": "select/23_Less_of_Me_Meg_&_Dia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "less of you",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/pl_01_less_of_you_keshi.txt"
+    }
+  ]
+}
